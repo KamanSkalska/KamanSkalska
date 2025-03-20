@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Telecommunication student at Warsaw University of Technology<br>⚡ Passionate about Cloud Innovations & Database Mastery<br>🌱 Committed to Evolving & Collaborating in a World of Tech<br><br>"The important thing is not to stop questioning. Curiosity has its own reason for existing." — Albert Einstein<br>
+🔭📡 Telecommunication student at Warsaw University of Technology<br>⚡🗃️  Passionate about Cloud Innovations & Database Mastery<br>🌱 Committed to Evolving & Collaborating in a World of Tech<br><br>"The important thing is not to stop questioning. Curiosity has its own reason for existing." — Albert Einstein<br>
 
 
 ## 🌐 Socials:
